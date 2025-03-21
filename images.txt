@@ -4,6 +4,7 @@ langgenius/dify-web:1.0.1
 langgenius/dify-plugin-daemon:0.0.4-local
 localai/localai:latest-aio-gpu-nvidia-cuda-12
 searxng/searxng:latest
+valkey/valkey:8-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
