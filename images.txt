@@ -1,4 +1,4 @@
-sonarqube/sonarqube:latest
+library/sonarqube/sonarqube:latest
 nginx
 langgenius/dify-api:1.0.1
 langgenius/dify-web:1.0.1
