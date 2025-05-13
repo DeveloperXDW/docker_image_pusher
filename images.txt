@@ -1,3 +1,4 @@
+tenable/nessus:latest-ubuntu
 sonarqube:latest
 nginx
 langgenius/dify-api:1.0.1
