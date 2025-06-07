@@ -1,3 +1,4 @@
+johngong/baidunetdisk:latest
 mysql:8.1.0
 tenable/nessus:latest-ubuntu
 sonarqube:latest
