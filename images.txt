@@ -1,4 +1,4 @@
-infiniflow/ragflow
+infiniflow/ragflow:0.19.x
 johngong/baidunetdisk:latest
 mysql:8.1.0
 tenable/nessus:latest-ubuntu
