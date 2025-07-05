@@ -1,3 +1,4 @@
+hewenyulucky/chattts:latest
 infiniflow/ragflow:v0.19.x
 johngong/baidunetdisk:latest
 mysql:8.1.0
