@@ -1,3 +1,4 @@
+--platform=linux/amd64 cturra/ntp:latest
 juhayna/song-generation-levo:hf0613
 nvidia/cuda:11.0.3-base-ubuntu20.04
 hewenyulucky/chattts:latest
