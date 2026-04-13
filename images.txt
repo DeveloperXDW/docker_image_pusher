@@ -5,6 +5,9 @@ hewenyulucky/chattts:latest
 infiniflow/ragflow:v0.19.x
 johngong/baidunetdisk:latest
 mysql:8.1.0
+mysql:8.0.36
+ninedata/ninedata:latest
+bytebase/bytebase:latest
 tenable/nessus:latest-ubuntu
 sonarqube:latest
 nginx
